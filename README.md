@@ -1,4 +1,4 @@
-#Simple JNI Example
+# Simple JNI Example
 
 An example of how we can call native OS library's methods using Java Native Interface.
 
